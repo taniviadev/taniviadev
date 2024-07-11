@@ -33,6 +33,8 @@
 
 <h2>Olha a cobrinha 🐍</h2>
 
-![Snake animation](https://raw.githubusercontent.com/taniviadev/taniviadev/output/snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/taniviadev/taniviadev/output/snake.svg" alt="Snake animation" />
 
+###
