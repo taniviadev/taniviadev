@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/taniviadev/taniviadev/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/taniviadev/taniviadev/blob/output/github-contribution-grid-snake2.svg)
 
 ###
