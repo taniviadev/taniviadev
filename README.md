@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/taniviadev/taniviadev/assets/157528071/629fc97b-9dd1-4fc7-bf17-d69b828447f2" />
+![lofimegif](https://github.com/taniviadev/taniviadev/assets/157528071/18c34b76-32da-4c69-a81c-a7b77b0208c4)
 
 ###
 
