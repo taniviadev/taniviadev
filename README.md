@@ -2,7 +2,7 @@
 
 ###
 
-<img align="center" src="https://github.com/taniviadev/taniviadev/assets/157528071/18c34b76-32da-4c69-a81c-a7b77b0208c4">
+<img align="center" src="https://github.com/taniviadev/taniviadev/assets/157528071/18c34b76-32da-4c69-a81c-a7b77b0208c4" />
 
 ![Snake animation](https://github.com/taniviadev/taniviadev/blob/output/github-contribution-grid-snake.svg)
 
